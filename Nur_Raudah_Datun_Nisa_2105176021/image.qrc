@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>img/ristrett000o-removebg-preview.png</file>
+    <file>img/ICON.png</file>
+    <file>img/KM.png</file>
+    <file>img/unmul.png</file>
+    <file>img/Cuplikan_layar_2024-04-19_220401-removebg-preview.png</file>
+    <file>img/Cuplikan_layar_2024-04-19_220426-removebg-preview.png</file>
+    <file>img/Cuplikan_layar_2024-04-19_222635-removebg-preview.png</file>
+    <file>img/Americano-removebg-preview.png</file>
+    <file>img/Espresso-removebg-preview.png</file>
+    <file>img/macchiato-removebg-preview.png</file>
+  </qresource>
+</RCC>
